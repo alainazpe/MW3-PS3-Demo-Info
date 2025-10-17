@@ -22,7 +22,8 @@ Printed example:
 ```
 Which can be represented in a web browser:
 
-<img width="487" height="156" alt="image" src="https://github.com/user-attachments/assets/a120f200-a828-4be9-8f51-05ad9fbae1e3" />
+<img width="485" height="146" alt="image" src="https://github.com/user-attachments/assets/7658f21a-7c9f-4c3e-a370-78f2947b5207" />
+
 
 
   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
